@@ -1,0 +1,11 @@
+Location: AttributeSector 62, Disaster Type: fire, Severity: 5, Contact No.11111111
+Location: Botanical Garden, Disaster Type: fire, Severity: 4, Contact No.3323232323
+Location: Apollo Hospital Noida, Disaster Type: wdwd, Severity: 2, Contact No.23232323
+Location: AttributeSector 62, Disaster Type: Earthquake, Severity: 3, Contact No.9999999999
+Location: Sector 40, Disaster Type: fire, Severity: 1, Contact No.: 1111111, Path: Sector 40 -> Relief Camp
+Location: Sector 40, Disaster Type: ds, Severity: 1, Contact No.: 322323, Path: Sector 40 -> Relief Camp
+Location: Sector 44, Disaster Type: 12, Severity: 12, Contact No.: 12, Path: Sector 44 -> Relief Camp
+Location: Sector 93, Disaster Type: sds, Severity: 1, Contact No.: 1121, Path: Sector 93 -> Relief Camp
+Location: Sector 40, Disaster Type: a, Severity: 1, Contact No.: 1121, Path: Sector 40 -> Relief Camp
+Location: Apollo Hospital Noida, Disaster Type: asas, Severity: 1, Contact No.: 12121, Path: Apollo Hospital Noida -> Sector 41 -> Sector 65 -> Relief Camp
+Location: Apollo Hospital Noida, Disaster Type: add, Severity: 1, Contact No.: 34434323, Path: Apollo Hospital Noida -> Sector 41 -> Sector 65 -> Relief Camp

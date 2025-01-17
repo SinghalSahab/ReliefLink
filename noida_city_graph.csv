@@ -1,0 +1,1399 @@
+Node,Type,Attribute
+Sector 62,Location,241
+Sector 18,Location,190
+Sector 37,Location,104
+Sector 44,Location,213
+Sector 50,Location,246
+Sector 93,Location,236
+Sector 125,Location,133
+Sector 128,Location,147
+Sector 15,Location,256
+Sector 16,Location,98
+Sector 39,Location,92
+Sector 40,Location,210
+Sector 41,Location,148
+Sector 42,Location,126
+Sector 52,Location,214
+Sector 53,Location,154
+Sector 54,Location,152
+Sector 55,Location,73
+Sector 56,Location,71
+Sector 57,Location,259
+Sector 58,Location,96
+Sector 59,Location,138
+Sector 60,Location,229
+Sector 61,Location,210
+Sector 63,Location,203
+Sector 64,Location,55
+Sector 65,Location,92
+Sector 66,Location,107
+Sector 67,Location,167
+Sector 68,Location,120
+Sector 69,Location,266
+Sector 70,Location,60
+Sector 71,Location,258
+Sector 72,Location,234
+Sector 73,Location,54
+Sector 74,Location,149
+Sector 75,Location,119
+Sector 76,Location,62
+Sector 77,Location,238
+Sector 78,Location,191
+Sector 79,Location,280
+Sector 80,Location,149
+Sector 81,Location,112
+Sector 82,Location,113
+Sector 83,Location,231
+Sector 84,Location,182
+Sector 85,Location,154
+Sector 86,Location,261
+Sector 87,Location,81
+Sector 88,Location,153
+Sector 89,Location,270
+Sector 90,Location,187
+Sector 91,Location,111
+Sector 92,Location,190
+Sector 94,Location,96
+Sector 95,Location,67
+Sector 96,Location,131
+Sector 97,Location,140
+Sector 98,Location,275
+Sector 99,Location,292
+Sector 100,Location,133
+Sector 101,Location,277
+Sector 102,Location,128
+Sector 103,Location,125
+Sector 104,Location,123
+Sector 105,Location,101
+Sector 106,Location,233
+Sector 107,Location,150
+Sector 108,Location,280
+Sector 109,Location,82
+Sector 110,Location,150
+Sector 111,Location,292
+Sector 112,Location,196
+Sector 113,Location,53
+Sector 114,Location,214
+Sector 115,Location,255
+Sector 116,Location,151
+Sector 117,Location,146
+Sector 118,Location,253
+Sector 119,Location,75
+Sector 120,Location,205
+Sector 121,Location,199
+Sector 122,Location,234
+Sector 123,Location,73
+Sector 124,Location,80
+Sector 126,Location,282
+Sector 127,Location,56
+Indirapuram,Location,450
+Mayur Vihar,Location,500
+Noida City Centre,Location,400
+Botanical Garden,Location,300
+Film City,Location,50
+Wave City,Location,200
+Jaypee Greens,Location,150
+Fortis Hospital Noida,Hospital,300
+Kailash Hospital Noida,Hospital,250
+Jaypee Hospital Noida,Hospital,350
+Max Multi Speciality Centre,Hospital,200
+Metro Hospital Noida,Hospital,150
+Apollo Hospital Noida,Hospital,400
+Prayag Hospital & Research Centre,Hospital,120
+Shivam Hospital Noida,Hospital,80
+Felix Hospital Noida,Hospital,220
+Vinayak Hospital Noida,Hospital,100
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Relief Camp,Relief Camp,N/A
+Noida Fire Station Sector 58,Fire Station,50
+Noida Fire Station Sector 2,Fire Station,40
+Fire Station Sector 5,Fire Station,35
+Fire Station Sector 16,Fire Station,30
+Greater Noida Fire Station,Fire Station,45
+Fire Station Sector 63,Fire Station,55
+Noida Authority Office,Government Office,N/A
+Noida Control Room Sector 19,Government Office,N/A
+Police Commissioner Office Noida,Government Office,N/A
+DM Office Gautam Buddh Nagar,Government Office,N/A
+Noida Disaster Management Cell,Government Office,N/A
+Community NGO 1,NGO,N/A
+Community NGO 2,NGO,N/A
+Community NGO 3,NGO,N/A
+Community NGO 4,NGO,N/A
+Community NGO 5,NGO,N/A
+Community NGO 6,NGO,N/A
+Community NGO 7,NGO,N/A
+Community NGO 8,NGO,N/A
+Community NGO 9,NGO,N/A
+Community NGO 10,NGO,N/A
+Community NGO 11,NGO,N/A
+Community NGO 12,NGO,N/A
+Community NGO 13,NGO,N/A
+Community NGO 14,NGO,N/A
+Community NGO 15,NGO,N/A
+Community NGO 16,NGO,N/A
+Community NGO 17,NGO,N/A
+Community NGO 18,NGO,N/A
+Community NGO 19,NGO,N/A
+Community NGO 20,NGO,N/A
+Gurudwara Singh Sabha Sector 18,Gurudwara,N/A
+Gurudwara Sector 22 Noida,Gurudwara,N/A
+Gurudwara Sahib Sector 62,Gurudwara,N/A
+Gurudwara Noida Extension,Gurudwara,N/A
+Radisson Blu Noida,Hotel,N/A
+Taj Vivanta Noida,Hotel,N/A
+Park Ascent Hotel,Hotel,N/A
+Hyatt Regency Noida,Hotel,N/A
+Holiday Inn Noida,Hotel,N/A
+The Fern Residency,Hotel,N/A
+Lemon Tree Hotel,Hotel,N/A
+Hotel Fortune Inn Grazia,Hotel,N/A
+Node1,Node2,Distance (km)
+Relief Camp,Relief Camp,16.11
+Sector 121,Sector 69,11.64
+Sector 40,Relief Camp,12.73
+Sector 84,Relief Camp,2.12
+Jaypee Greens,Sector 86,16.48
+Noida City Centre,Sector 66,12.11
+Relief Camp,Sector 91,12.38
+Relief Camp,Sector 52,12.99
+Sector 96,Indirapuram,19.97
+Sector 127,Relief Camp,14.42
+Sector 109,Relief Camp,19.69
+Sector 93,Sector 40,10.21
+Sector 97,Sector 121,15.12
+Indirapuram,Relief Camp,7.02
+Mayur Vihar,Sector 53,3.59
+Sector 80,Sector 110,6.37
+Sector 122,Sector 100,12.18
+Sector 72,Sector 71,6.39
+Sector 100,Sector 77,17.4
+Sector 78,Sector 112,7.74
+Sector 90,Sector 123,4.36
+Relief Camp,Relief Camp,13.69
+Sector 69,Sector 104,3.65
+Sector 68,Sector 58,6.25
+Sector 114,Sector 77,9.56
+Sector 75,Relief Camp,14.73
+Sector 39,Sector 128,11.14
+Sector 62,Relief Camp,16.35
+Relief Camp,Relief Camp,8.48
+Sector 61,Sector 112,0.96
+Relief Camp,Sector 100,1.79
+Sector 41,Relief Camp,11.22
+Sector 65,Max Multi Speciality Centre,19.4
+Sector 99,Sector 87,6.59
+Sector 116,Relief Camp,1.34
+Sector 112,Sector 74,18.5
+Sector 120,Botanical Garden,10.39
+Sector 120,Sector 100,9.08
+Sector 76,Metro Hospital Noida,19.34
+Sector 59,Sector 126,15.99
+Relief Camp,Sector 117,12.4
+Sector 104,Sector 125,6.29
+Sector 88,Sector 93,13.25
+Wave City,Sector 90,18.14
+Sector 61,Jaypee Greens,6.35
+Sector 101,Relief Camp,12.9
+Sector 62,Relief Camp,10.82
+Sector 110,Sector 58,5.16
+Sector 118,Relief Camp,17.87
+Jaypee Hospital Noida,Sector 37,19.93
+Relief Camp,Relief Camp,3.2
+Relief Camp,Relief Camp,14.76
+Relief Camp,Sector 39,15.79
+Relief Camp,Relief Camp,6.97
+Noida City Centre,Sector 83,1.68
+Relief Camp,Sector 100,16.26
+Sector 64,Relief Camp,10.81
+Relief Camp,Sector 59,16.95
+Metro Hospital Noida,Noida City Centre,8.97
+Indirapuram,Relief Camp,2.29
+Sector 93,Sector 125,0.71
+Relief Camp,Sector 114,14.9
+Sector 97,Sector 128,4.43
+Relief Camp,Shivam Hospital Noida,9.88
+Sector 83,Sector 15,5.67
+Sector 125,Sector 67,3.92
+Relief Camp,Relief Camp,11.36
+Relief Camp,Sector 55,19.86
+Sector 98,Sector 86,3.23
+Sector 75,Relief Camp,9.25
+Relief Camp,Sector 54,1.47
+Relief Camp,Relief Camp,12.13
+Apollo Hospital Noida,Sector 66,15.12
+Relief Camp,Relief Camp,6.42
+Sector 93,Sector 107,16.49
+Sector 89,Wave City,4.69
+Apollo Hospital Noida,Relief Camp,100.11
+Sector 57,Prayag Hospital & Research Centre,10.39
+Sector 112,Sector 81,13.2
+Relief Camp,Sector 71,15.79
+Shivam Hospital Noida,Relief Camp,5.96
+Relief Camp,Sector 39,6.72
+Relief Camp,Kailash Hospital Noida,4.19
+Sector 71,Sector 58,9.82
+Sector 70,Sector 96,9.56
+Sector 90,Sector 97,12.76
+Relief Camp,Relief Camp,2.05
+Relief Camp,Sector 85,18.23
+Sector 90,Sector 69,0.53
+Relief Camp,Relief Camp,12.96
+Relief Camp,Sector 18,18.51
+Sector 93,Relief Camp,17.25
+Fortis Hospital Noida,Relief Camp,14.34
+Sector 50,Sector 86,13.77
+Sector 87,Sector 114,3.8
+Sector 123,Sector 90,2.49
+Sector 87,Wave City,1.54
+Relief Camp,Sector 98,19.19
+Sector 79,Relief Camp,18.06
+Sector 37,Sector 68,19.24
+Sector 50,Relief Camp,10.65
+Relief Camp,Mayur Vihar,4.95
+Sector 89,Jaypee Greens,6.45
+Relief Camp,Relief Camp,12.11
+Relief Camp,Sector 72,4.83
+Relief Camp,Sector 50,18.69
+Sector 103,Sector 125,7.64
+Relief Camp,Sector 118,8.0
+Sector 89,Kailash Hospital Noida,12.42
+Relief Camp,Sector 89,18.14
+Sector 93,Sector 72,1.56
+Sector 103,Sector 58,19.56
+Sector 60,Relief Camp,6.58
+Relief Camp,Fortis Hospital Noida,5.65
+Sector 41,Relief Camp,11.1
+Relief Camp,Jaypee Hospital Noida,16.02
+Sector 110,Relief Camp,17.63
+Sector 91,Relief Camp,16.86
+Sector 89,Relief Camp,6.78
+Sector 125,Relief Camp,2.93
+Relief Camp,Relief Camp,14.49
+Sector 105,Sector 66,19.14
+Sector 18,Sector 44,4.39
+Relief Camp,Sector 60,13.73
+Sector 97,Apollo Hospital Noida,17.13
+Sector 75,Sector 92,9.62
+Sector 120,Shivam Hospital Noida,12.85
+Relief Camp,Shivam Hospital Noida,8.4
+Sector 18,Relief Camp,10.25
+Sector 57,Sector 91,2.37
+Noida City Centre,Relief Camp,16.25
+Wave City,Sector 106,6.12
+Sector 65,Sector 128,0.93
+Sector 105,Sector 63,10.93
+Relief Camp,Fortis Hospital Noida,12.62
+Relief Camp,Sector 102,12.62
+Sector 65,Sector 69,7.6
+Max Multi Speciality Centre,Relief Camp,17.8
+Wave City,Relief Camp,0.64
+Relief Camp,Relief Camp,5.66
+Sector 40,Sector 63,13.63
+Relief Camp,Indirapuram,6.65
+Sector 103,Relief Camp,1.45
+Sector 71,Relief Camp,5.69
+Sector 110,Sector 91,11.66
+Sector 102,Relief Camp,7.03
+Sector 108,Relief Camp,12.62
+Relief Camp,Relief Camp,15.14
+Sector 71,Sector 67,5.41
+Sector 63,Relief Camp,18.05
+Relief Camp,Sector 42,11.35
+Film City,Relief Camp,15.04
+Relief Camp,Metro Hospital Noida,13.21
+Sector 108,Relief Camp,4.48
+Relief Camp,Vinayak Hospital Noida,0.61
+Relief Camp,Sector 61,8.45
+Relief Camp,Sector 57,14.34
+Sector 96,Sector 111,7.89
+Sector 64,Jaypee Greens,4.59
+Sector 67,Sector 100,9.17
+Sector 65,Relief Camp,14.27
+Relief Camp,Relief Camp,19.05
+Sector 72,Relief Camp,9.75
+Sector 114,Sector 18,19.67
+Sector 74,Sector 42,12.94
+Relief Camp,Sector 58,9.63
+Wave City,Relief Camp,1.92
+Sector 85,Relief Camp,6.47
+Relief Camp,Sector 42,14.69
+Botanical Garden,Sector 82,18.1
+Sector 113,Relief Camp,8.62
+Sector 83,Relief Camp,7.85
+Relief Camp,Relief Camp,15.19
+Sector 80,Sector 126,15.23
+Sector 94,Relief Camp,7.94
+Relief Camp,Sector 81,15.08
+Relief Camp,Sector 66,16.19
+Sector 83,Relief Camp,18.1
+Sector 86,Indirapuram,13.58
+Sector 52,Sector 69,4.63
+Film City,Metro Hospital Noida,13.94
+Relief Camp,Felix Hospital Noida,19.68
+Sector 83,Relief Camp,10.15
+Sector 94,Sector 55,13.11
+Relief Camp,Sector 128,18.55
+Sector 127,Relief Camp,6.47
+Fortis Hospital Noida,Sector 57,8.28
+Relief Camp,Sector 76,0.82
+Sector 65,Sector 93,0.74
+Sector 82,Relief Camp,17.38
+Relief Camp,Sector 125,11.38
+Sector 15,Sector 99,4.96
+Sector 117,Relief Camp,5.05
+Sector 123,Relief Camp,10.19
+Sector 75,Sector 50,4.26
+Sector 104,Relief Camp,9.06
+Sector 59,Relief Camp,19.7
+Sector 93,Jaypee Hospital Noida,3.28
+Relief Camp,Sector 52,16.95
+Sector 97,Relief Camp,17.88
+Sector 117,Sector 79,1.95
+Sector 50,Sector 108,14.26
+Relief Camp,Sector 55,5.56
+Sector 89,Sector 15,13.54
+Sector 87,Sector 91,5.49
+Sector 87,Relief Camp,8.52
+Sector 111,Sector 128,6.23
+Sector 80,Sector 55,1.23
+Relief Camp,Sector 74,7.0
+Sector 40,Relief Camp,4.13
+Sector 100,Max Multi Speciality Centre,0.71
+Sector 115,Relief Camp,18.56
+Relief Camp,Sector 70,3.41
+Relief Camp,Sector 111,5.2
+Relief Camp,Sector 70,15.35
+Relief Camp,Jaypee Hospital Noida,8.79
+Vinayak Hospital Noida,Sector 37,14.78
+Sector 122,Relief Camp,14.0
+Relief Camp,Sector 71,18.98
+Prayag Hospital & Research Centre,Relief Camp,13.52
+Metro Hospital Noida,Sector 115,17.3
+Sector 121,Sector 85,17.42
+Sector 99,Sector 105,11.56
+Relief Camp,Relief Camp,4.76
+Relief Camp,Relief Camp,10.67
+Film City,Jaypee Greens,2.96
+Relief Camp,Sector 60,13.09
+Sector 94,Sector 89,3.93
+Relief Camp,Sector 113,17.48
+Relief Camp,Relief Camp,6.31
+Sector 89,Sector 112,6.49
+Sector 44,Sector 91,9.02
+Sector 68,Relief Camp,19.95
+Sector 68,Sector 105,11.21
+Felix Hospital Noida,Relief Camp,2.03
+Relief Camp,Sector 62,6.9
+Sector 125,Sector 62,5.93
+Relief Camp,Relief Camp,0.56
+Sector 115,Sector 90,9.26
+Sector 81,Jaypee Greens,7.67
+Sector 123,Sector 72,19.18
+Sector 72,Sector 93,4.38
+Sector 44,Sector 69,6.92
+Sector 53,Sector 81,19.69
+Relief Camp,Relief Camp,15.87
+Sector 89,Sector 75,7.48
+Relief Camp,Relief Camp,10.63
+Sector 56,Sector 115,1.95
+Sector 84,Sector 92,11.4
+Sector 119,Relief Camp,13.95
+Sector 57,Sector 90,2.31
+Relief Camp,Sector 80,4.06
+Sector 121,Sector 106,3.26
+Sector 61,Sector 112,3.94
+Relief Camp,Sector 69,10.69
+Sector 106,Sector 37,2.04
+Relief Camp,Vinayak Hospital Noida,7.41
+Sector 95,Sector 16,15.45
+Relief Camp,Relief Camp,7.43
+Relief Camp,Sector 68,5.89
+Relief Camp,Sector 103,12.79
+Sector 52,Relief Camp,12.05
+Shivam Hospital Noida,Sector 60,7.46
+Sector 122,Relief Camp,19.63
+Relief Camp,Relief Camp,8.78
+Relief Camp,Sector 88,4.64
+Sector 18,Sector 85,10.85
+Relief Camp,Sector 100,11.1
+Sector 80,Sector 18,2.81
+Sector 128,Sector 127,8.9
+Sector 50,Sector 60,10.94
+Sector 69,Relief Camp,4.82
+Sector 41,Sector 128,11.73
+Sector 56,Sector 124,1.48
+Max Multi Speciality Centre,Sector 89,11.12
+Sector 74,Sector 44,5.18
+Sector 88,Sector 85,3.01
+Sector 113,Relief Camp,1.68
+Sector 39,Relief Camp,1.49
+Wave City,Sector 121,9.64
+Sector 60,Sector 53,5.79
+Relief Camp,Relief Camp,6.27
+Relief Camp,Relief Camp,10.4
+Sector 113,Sector 117,1.17
+Sector 77,Relief Camp,5.68
+Sector 104,Sector 59,16.4
+Relief Camp,Relief Camp,11.03
+Relief Camp,Noida City Centre,8.98
+Sector 93,Sector 39,15.54
+Sector 59,Max Multi Speciality Centre,9.99
+Metro Hospital Noida,Sector 125,4.69
+Sector 125,Relief Camp,19.06
+Relief Camp,Sector 120,19.63
+Sector 77,Sector 55,15.62
+Relief Camp,Sector 42,1.44
+Sector 77,Sector 53,11.8
+Sector 39,Felix Hospital Noida,2.94
+Relief Camp,Sector 100,10.46
+Sector 89,Sector 94,2.16
+Sector 78,Sector 84,3.9
+Sector 118,Sector 97,19.74
+Sector 123,Relief Camp,4.12
+Relief Camp,Sector 106,3.6
+Relief Camp,Relief Camp,11.44
+Sector 67,Wave City,16.85
+Relief Camp,Relief Camp,8.19
+Relief Camp,Relief Camp,13.04
+Relief Camp,Relief Camp,15.54
+Sector 85,Relief Camp,7.45
+Wave City,Sector 54,4.3
+Sector 65,Sector 93,5.29
+Relief Camp,Relief Camp,7.74
+Sector 16,Relief Camp,13.76
+Sector 65,Relief Camp,5.97
+Sector 68,Relief Camp,1.43
+Sector 112,Sector 119,15.63
+Kailash Hospital Noida,Relief Camp,16.37
+Mayur Vihar,Sector 113,1.05
+Sector 16,Fortis Hospital Noida,14.2
+Sector 91,Sector 111,4.81
+Relief Camp,Fortis Hospital Noida,5.13
+Sector 97,Sector 16,4.0
+Sector 39,Relief Camp,16.78
+Sector 90,Relief Camp,11.85
+Sector 118,Sector 100,2.28
+Relief Camp,Relief Camp,10.01
+Relief Camp,Sector 41,10.86
+Jaypee Greens,Vinayak Hospital Noida,14.25
+Shivam Hospital Noida,Sector 112,7.25
+Sector 86,Sector 101,1.93
+Sector 70,Sector 121,6.86
+Relief Camp,Relief Camp,4.36
+Sector 99,Relief Camp,5.52
+Sector 98,Sector 97,15.35
+Sector 77,Relief Camp,3.53
+Relief Camp,Sector 126,16.71
+Sector 125,Sector 18,8.78
+Sector 65,Relief Camp,12.39
+Film City,Relief Camp,8.23
+Sector 64,Sector 120,10.01
+Sector 126,Sector 100,8.28
+Sector 52,Sector 90,10.04
+Relief Camp,Sector 127,2.31
+Relief Camp,Sector 41,8.77
+Sector 74,Max Multi Speciality Centre,13.5
+Relief Camp,Sector 117,6.88
+Sector 82,Sector 114,13.25
+Sector 106,Sector 81,12.12
+Sector 110,Relief Camp,15.58
+Relief Camp,Relief Camp,14.92
+Sector 64,Sector 15,12.9
+Sector 103,Sector 62,16.05
+Sector 72,Sector 67,0.64
+Sector 53,Sector 93,14.89
+Sector 92,Sector 81,14.47
+Relief Camp,Relief Camp,9.16
+Max Multi Speciality Centre,Relief Camp,18.89
+Sector 103,Relief Camp,7.24
+Sector 66,Sector 37,9.39
+Sector 120,Relief Camp,5.94
+Relief Camp,Prayag Hospital & Research Centre,14.22
+Sector 102,Sector 128,9.48
+Sector 58,Sector 108,11.32
+Sector 63,Sector 115,6.96
+Sector 54,Sector 82,9.89
+Sector 40,Sector 67,9.78
+Sector 65,Sector 79,4.51
+Relief Camp,Relief Camp,18.33
+Relief Camp,Sector 42,12.04
+Sector 79,Sector 42,19.63
+Sector 107,Sector 54,10.17
+Relief Camp,Sector 122,15.19
+Sector 95,Sector 44,0.94
+Relief Camp,Metro Hospital Noida,13.64
+Relief Camp,Sector 103,1.47
+Sector 109,Relief Camp,19.49
+Relief Camp,Kailash Hospital Noida,19.13
+Sector 128,Prayag Hospital & Research Centre,11.46
+Sector 91,Relief Camp,3.44
+Relief Camp,Relief Camp,11.58
+Relief Camp,Relief Camp,17.55
+Relief Camp,Felix Hospital Noida,3.56
+Sector 120,Sector 42,2.66
+Sector 97,Shivam Hospital Noida,6.85
+Sector 126,Sector 73,19.82
+Metro Hospital Noida,Relief Camp,5.42
+Relief Camp,Relief Camp,9.96
+Relief Camp,Sector 107,4.12
+Sector 92,Sector 76,4.93
+Sector 78,Sector 39,7.17
+Sector 42,Sector 124,10.97
+Sector 88,Relief Camp,16.51
+Sector 72,Relief Camp,7.4
+Sector 90,Relief Camp,13.15
+Sector 50,Relief Camp,18.65
+Relief Camp,Relief Camp,11.2
+Sector 52,Sector 91,16.63
+Relief Camp,Relief Camp,13.63
+Sector 55,Relief Camp,9.31
+Sector 67,Sector 87,3.6
+Relief Camp,Sector 72,1.31
+Sector 122,Relief Camp,0.56
+Sector 71,Relief Camp,15.4
+Sector 76,Relief Camp,15.23
+Sector 81,Metro Hospital Noida,15.65
+Sector 85,Sector 77,8.25
+Relief Camp,Relief Camp,19.53
+Sector 90,Sector 88,7.14
+Sector 53,Relief Camp,17.07
+Sector 42,Relief Camp,8.44
+Relief Camp,Relief Camp,13.49
+Sector 105,Sector 74,11.62
+Sector 103,Relief Camp,6.28
+Sector 87,Botanical Garden,11.9
+Relief Camp,Max Multi Speciality Centre,4.16
+Sector 56,Sector 61,10.98
+Sector 126,Relief Camp,11.68
+Sector 67,Sector 96,7.4
+Relief Camp,Relief Camp,8.47
+Relief Camp,Sector 66,6.52
+Jaypee Greens,Sector 113,13.01
+Sector 95,Noida City Centre,8.34
+Sector 118,Relief Camp,7.01
+Relief Camp,Sector 109,9.52
+Botanical Garden,Shivam Hospital Noida,12.99
+Sector 90,Vinayak Hospital Noida,11.51
+Relief Camp,Sector 126,4.09
+Apollo Hospital Noida,Sector 83,16.61
+Sector 65,Sector 56,17.92
+Relief Camp,Relief Camp,9.87
+Sector 98,Sector 109,2.6
+Sector 55,Sector 86,9.8
+Sector 112,Sector 16,13.17
+Sector 15,Sector 62,7.49
+Relief Camp,Sector 66,9.33
+Sector 97,Sector 68,16.5
+Sector 91,Sector 79,12.58
+Sector 112,Sector 74,10.07
+Sector 102,Relief Camp,12.6
+Sector 95,Sector 122,4.28
+Relief Camp,Relief Camp,8.81
+Sector 106,Sector 62,5.14
+Sector 105,Noida City Centre,18.43
+Relief Camp,Relief Camp,9.8
+Relief Camp,Relief Camp,18.9
+Relief Camp,Sector 99,9.02
+Sector 79,Relief Camp,10.54
+Relief Camp,Sector 80,3.8
+Sector 88,Sector 119,18.53
+Relief Camp,Noida City Centre,3.35
+Relief Camp,Relief Camp,6.85
+Sector 71,Sector 95,7.59
+Sector 58,Sector 86,5.78
+Sector 109,Relief Camp,3.64
+Sector 86,Sector 61,4.06
+Sector 89,Sector 102,9.37
+Sector 85,Relief Camp,18.51
+Relief Camp,Sector 56,16.3
+Relief Camp,Sector 15,15.36
+Sector 119,Sector 71,7.7
+Relief Camp,Max Multi Speciality Centre,11.42
+Relief Camp,Sector 98,13.14
+Sector 70,Sector 81,14.0
+Sector 115,Relief Camp,7.08
+Sector 40,Sector 104,17.99
+Relief Camp,Sector 89,8.23
+Sector 103,Relief Camp,3.1
+Relief Camp,Relief Camp,15.98
+Relief Camp,Noida City Centre,11.34
+Sector 72,Sector 124,15.03
+Relief Camp,Film City,4.6
+Sector 123,Sector 114,6.78
+Sector 37,Sector 94,2.44
+Sector 64,Sector 80,15.3
+Sector 80,Sector 127,18.27
+Sector 85,Sector 89,11.99
+Sector 66,Relief Camp,5.13
+Sector 124,Indirapuram,11.59
+Sector 114,Sector 75,8.07
+Relief Camp,Wave City,9.15
+Sector 68,Sector 127,5.4
+Relief Camp,Sector 107,11.22
+Prayag Hospital & Research Centre,Relief Camp,12.35
+Sector 65,Sector 56,7.19
+Sector 44,Jaypee Hospital Noida,2.12
+Wave City,Kailash Hospital Noida,18.21
+Relief Camp,Relief Camp,2.47
+Sector 71,Fortis Hospital Noida,5.95
+Sector 117,Sector 42,14.54
+Relief Camp,Prayag Hospital & Research Centre,10.17
+Apollo Hospital Noida,Relief Camp,113.44
+Sector 15,Metro Hospital Noida,2.57
+Sector 80,Sector 40,9.93
+Sector 84,Relief Camp,13.74
+Relief Camp,Sector 116,5.32
+Sector 90,Sector 74,2.12
+Sector 113,Sector 108,7.94
+Sector 93,Metro Hospital Noida,2.12
+Relief Camp,Sector 65,1.52
+Relief Camp,Relief Camp,14.81
+Sector 61,Relief Camp,2.13
+Relief Camp,Sector 70,1.36
+Relief Camp,Sector 126,8.65
+Sector 78,Relief Camp,10.92
+Sector 97,Relief Camp,6.98
+Relief Camp,Sector 124,12.48
+Sector 88,Relief Camp,14.21
+Sector 52,Relief Camp,1.02
+Relief Camp,Sector 56,4.41
+Sector 97,Sector 53,4.19
+Relief Camp,Sector 108,2.37
+Film City,Noida City Centre,7.87
+Sector 57,Sector 121,15.1
+Relief Camp,Relief Camp,16.21
+Relief Camp,Sector 91,14.91
+Sector 39,Sector 124,13.98
+Relief Camp,Sector 119,4.94
+Relief Camp,Sector 126,3.8
+Relief Camp,Sector 104,14.75
+Sector 54,Sector 127,5.07
+Sector 127,Sector 92,15.3
+Sector 102,Relief Camp,14.24
+Relief Camp,Film City,6.92
+Sector 90,Sector 116,6.09
+Sector 106,Sector 115,3.26
+Relief Camp,Sector 103,1.48
+Sector 93,Relief Camp,0.85
+Sector 95,Sector 70,6.78
+Relief Camp,Sector 115,10.88
+Sector 98,Sector 93,5.91
+Sector 98,Sector 95,14.03
+Sector 90,Relief Camp,16.19
+Sector 15,Sector 68,4.58
+Botanical Garden,Relief Camp,11.17
+Sector 116,Sector 88,6.1
+Sector 110,Relief Camp,19.61
+Vinayak Hospital Noida,Relief Camp,9.71
+Noida City Centre,Felix Hospital Noida,8.23
+Sector 69,Sector 82,6.2
+Sector 87,Sector 15,2.3
+Jaypee Greens,Sector 124,2.27
+Relief Camp,Relief Camp,4.19
+Sector 96,Botanical Garden,16.46
+Felix Hospital Noida,Relief Camp,3.37
+Sector 70,Sector 115,9.66
+Sector 93,Apollo Hospital Noida,9.98
+Vinayak Hospital Noida,Sector 15,10.55
+Relief Camp,Sector 61,6.32
+Sector 95,Relief Camp,16.43
+Sector 111,Relief Camp,13.54
+Sector 82,Jaypee Greens,8.07
+Sector 72,Relief Camp,8.17
+Botanical Garden,Sector 92,13.24
+Sector 107,Sector 98,0.83
+Relief Camp,Film City,15.83
+Relief Camp,Apollo Hospital Noida,300.22
+Sector 39,Relief Camp,8.94
+Sector 96,Sector 93,2.12
+Relief Camp,Sector 71,7.32
+Sector 101,Relief Camp,15.43
+Relief Camp,Relief Camp,2.45
+Relief Camp,Sector 94,9.72
+Sector 86,Sector 113,4.32
+Sector 86,Sector 57,9.17
+Sector 60,Relief Camp,7.01
+Sector 98,Vinayak Hospital Noida,1.24
+Sector 77,Sector 68,1.31
+Mayur Vihar,Sector 91,8.04
+Sector 121,Max Multi Speciality Centre,7.48
+Relief Camp,Sector 61,15.99
+Sector 108,Sector 117,17.92
+Kailash Hospital Noida,Sector 57,1.5
+Sector 128,Relief Camp,13.47
+Relief Camp,Jaypee Greens,3.71
+Sector 55,Relief Camp,8.08
+Sector 67,Sector 84,4.21
+Sector 88,Sector 80,11.21
+Sector 90,Sector 128,7.38
+Relief Camp,Relief Camp,16.87
+Relief Camp,Relief Camp,12.66
+Sector 90,Sector 44,14.8
+Relief Camp,Sector 79,16.55
+Relief Camp,Sector 89,18.99
+Sector 118,Sector 44,5.88
+Relief Camp,Sector 125,14.43
+Sector 121,Sector 102,13.7
+Relief Camp,Vinayak Hospital Noida,12.68
+Sector 16,Sector 53,14.36
+Relief Camp,Sector 70,1.8
+Sector 85,Sector 99,19.66
+Relief Camp,Relief Camp,16.75
+Sector 102,Wave City,16.42
+Sector 57,Relief Camp,17.46
+Sector 80,Sector 67,4.32
+Sector 107,Sector 71,5.62
+Sector 127,Sector 76,12.68
+Sector 55,Relief Camp,6.88
+Sector 56,Sector 109,5.72
+Sector 95,Sector 113,6.4
+Relief Camp,Sector 64,8.39
+Felix Hospital Noida,Relief Camp,8.99
+Relief Camp,Sector 58,7.36
+Wave City,Sector 70,16.7
+Sector 81,Sector 114,11.69
+Sector 120,Relief Camp,11.39
+Sector 54,Relief Camp,3.73
+Sector 96,Sector 44,3.13
+Relief Camp,Sector 87,15.21
+Relief Camp,Sector 111,6.36
+Relief Camp,Sector 67,6.12
+Relief Camp,Sector 85,9.33
+Sector 116,Sector 52,11.8
+Sector 69,Sector 56,11.41
+Relief Camp,Sector 88,15.46
+Sector 115,Sector 70,10.42
+Relief Camp,Relief Camp,18.73
+Relief Camp,Botanical Garden,14.81
+Sector 44,Relief Camp,4.49
+Sector 117,Sector 92,5.66
+Relief Camp,Relief Camp,7.75
+Sector 40,Sector 96,12.44
+Sector 111,Sector 87,4.86
+Sector 64,Sector 90,3.0
+Max Multi Speciality Centre,Relief Camp,7.36
+Sector 65,Sector 80,2.05
+Sector 55,Relief Camp,13.88
+Relief Camp,Sector 65,16.87
+Kailash Hospital Noida,Sector 41,5.39
+Sector 110,Sector 107,15.35
+Sector 73,Sector 67,13.5
+Sector 15,Relief Camp,15.03
+Sector 70,Sector 18,13.63
+Relief Camp,Fortis Hospital Noida,7.86
+Sector 115,Sector 57,11.42
+Sector 18,Sector 120,6.4
+Relief Camp,Relief Camp,10.96
+Sector 60,Sector 128,7.93
+Sector 95,Relief Camp,4.8
+Sector 108,Sector 107,13.38
+Sector 88,Sector 37,13.73
+Sector 92,Sector 58,19.12
+Sector 98,Felix Hospital Noida,5.45
+Sector 90,Relief Camp,16.01
+Sector 16,Sector 68,5.76
+Sector 60,Sector 115,16.05
+Noida City Centre,Prayag Hospital & Research Centre,1.12
+Relief Camp,Sector 118,14.57
+Sector 68,Sector 95,6.6
+Relief Camp,Sector 99,12.64
+Sector 120,Sector 39,11.76
+Relief Camp,Relief Camp,12.18
+Relief Camp,Relief Camp,9.41
+Sector 52,Sector 39,16.07
+Relief Camp,Relief Camp,4.18
+Jaypee Greens,Metro Hospital Noida,4.26
+Sector 78,Relief Camp,18.13
+Sector 57,Sector 72,6.56
+Sector 83,Sector 125,6.84
+Sector 62,Relief Camp,7.31
+Relief Camp,Noida City Centre,0.93
+Relief Camp,Sector 64,5.33
+Sector 106,Sector 69,6.08
+Sector 64,Sector 15,8.76
+Sector 70,Sector 72,12.46
+Botanical Garden,Relief Camp,5.55
+Relief Camp,Sector 107,5.98
+Fortis Hospital Noida,Sector 95,12.98
+Sector 59,Relief Camp,2.48
+Sector 66,Sector 74,7.3
+Relief Camp,Sector 18,16.52
+Relief Camp,Wave City,5.29
+Sector 81,Sector 52,5.68
+Sector 128,Sector 65,8.04
+Sector 112,Sector 68,0.61
+Sector 86,Sector 123,11.1
+Relief Camp,Sector 82,9.69
+Sector 59,Sector 119,16.31
+Relief Camp,Relief Camp,19.82
+Sector 58,Shivam Hospital Noida,14.33
+Relief Camp,Sector 126,18.43
+Sector 96,Relief Camp,2.37
+Sector 125,Sector 124,6.89
+Relief Camp,Sector 77,17.97
+Sector 100,Sector 54,15.66
+Relief Camp,Sector 63,1.66
+Relief Camp,Relief Camp,5.78
+Sector 60,Sector 95,9.95
+Sector 122,Relief Camp,3.33
+Sector 92,Sector 18,14.11
+Sector 91,Relief Camp,8.13
+Relief Camp,Sector 88,9.45
+Relief Camp,Relief Camp,5.9
+Sector 58,Sector 87,5.45
+Sector 62,Relief Camp,3.52
+Sector 44,Sector 126,10.01
+Sector 99,Mayur Vihar,9.56
+Sector 128,Kailash Hospital Noida,11.63
+Sector 55,Relief Camp,10.56
+Relief Camp,Sector 74,19.82
+Relief Camp,Relief Camp,0.72
+Sector 98,Relief Camp,9.44
+Sector 105,Sector 128,10.5
+Sector 37,Relief Camp,3.54
+Relief Camp,Indirapuram,15.97
+Sector 54,Relief Camp,10.06
+Sector 115,Relief Camp,14.28
+Sector 84,Relief Camp,1.59
+Relief Camp,Sector 84,4.59
+Relief Camp,Sector 86,5.62
+Relief Camp,Relief Camp,2.62
+Relief Camp,Sector 94,15.3
+Relief Camp,Sector 128,12.42
+Relief Camp,Relief Camp,10.34
+Relief Camp,Relief Camp,3.9
+Sector 89,Sector 117,13.77
+Relief Camp,Sector 63,15.62
+Sector 50,Sector 109,8.78
+Sector 59,Sector 60,7.16
+Mayur Vihar,Sector 126,1.86
+Sector 67,Sector 50,9.29
+Relief Camp,Indirapuram,15.91
+Sector 37,Sector 57,7.53
+Sector 72,Sector 117,19.14
+Sector 65,Relief Camp,10.7
+Sector 110,Sector 55,14.46
+Sector 112,Sector 52,6.46
+Sector 65,Sector 116,18.72
+Sector 71,Relief Camp,12.72
+Relief Camp,Sector 99,16.21
+Sector 71,Relief Camp,6.65
+Sector 116,Sector 18,13.08
+Relief Camp,Sector 60,3.53
+Sector 83,Jaypee Greens,12.81
+Sector 67,Max Multi Speciality Centre,9.13
+Sector 117,Sector 42,7.25
+Jaypee Greens,Sector 80,4.59
+Sector 44,Sector 92,17.04
+Sector 53,Sector 71,11.68
+Sector 61,Sector 99,14.98
+Relief Camp,Sector 97,18.22
+Sector 111,Sector 98,11.51
+Sector 124,Sector 99,9.84
+Sector 88,Relief Camp,9.08
+Sector 121,Relief Camp,10.42
+Sector 76,Sector 41,11.55
+Sector 41,Sector 65,3.86
+Relief Camp,Sector 108,10.42
+Apollo Hospital Noida,Sector 97,6.73
+Sector 70,Sector 76,2.09
+Sector 66,Shivam Hospital Noida,4.99
+Sector 16,Sector 98,14.04
+Sector 58,Sector 81,13.07
+Sector 89,Sector 87,2.15
+Sector 106,Sector 117,9.52
+Sector 109,Sector 102,12.25
+Shivam Hospital Noida,Sector 92,14.91
+Fortis Hospital Noida,Mayur Vihar,7.46
+Relief Camp,Relief Camp,1.36
+Relief Camp,Sector 16,9.55
+Indirapuram,Relief Camp,4.55
+Sector 78,Relief Camp,18.13
+Sector 118,Sector 66,9.74
+Relief Camp,Fortis Hospital Noida,7.26
+Sector 119,Sector 115,7.61
+Sector 61,Sector 123,18.15
+Sector 42,Sector 99,3.89
+Relief Camp,Relief Camp,8.94
+Sector 99,Sector 117,18.97
+Relief Camp,Sector 81,10.27
+Relief Camp,Sector 81,1.3
+Sector 58,Sector 109,10.94
+Sector 104,Sector 15,5.29
+Sector 105,Fortis Hospital Noida,16.82
+Jaypee Hospital Noida,Metro Hospital Noida,4.37
+Sector 119,Metro Hospital Noida,9.89
+Sector 123,Sector 42,18.73
+Relief Camp,Sector 101,3.41
+Relief Camp,Relief Camp,18.65
+Sector 15,Sector 72,8.97
+Relief Camp,Relief Camp,6.63
+Relief Camp,Sector 89,13.71
+Sector 72,Sector 89,15.4
+Sector 70,Relief Camp,2.56
+Sector 65,Sector 54,19.98
+Relief Camp,Sector 103,4.46
+Shivam Hospital Noida,Sector 39,10.37
+Noida City Centre,Sector 63,9.61
+Prayag Hospital & Research Centre,Sector 59,3.15
+Jaypee Hospital Noida,Botanical Garden,19.9
+Relief Camp,Sector 73,19.92
+Sector 94,Sector 65,15.57
+Sector 37,Sector 80,16.54
+Relief Camp,Sector 125,17.77
+Relief Camp,Sector 80,6.5
+Noida City Centre,Relief Camp,8.85
+Sector 63,Jaypee Greens,12.42
+Sector 82,Sector 41,11.03
+Relief Camp,Sector 89,11.97
+Sector 88,Sector 41,16.6
+Film City,Relief Camp,14.01
+Relief Camp,Relief Camp,1.14
+Sector 113,Sector 61,10.86
+Greater Noida Fire Station,Sector 123,16.27
+Relief Camp,Jaypee Hospital Noida,13.87
+Sector 40,Radisson Blu Noida,11.73
+Noida Fire Station Sector 58,Relief Camp,16.74
+Relief Camp,Relief Camp,2.13
+Sector 101,Relief Camp,1.18
+Sector 114,Sector 119,5.06
+Sector 103,Sector 124,20.65
+Community NGO 15,Sector 69,23.81
+Shivam Hospital Noida,Sector 97,1.83
+Sector 125,Sector 58,4.5
+Relief Camp,Wave City,23.08
+Sector 84,Relief Camp,7.85
+Community NGO 1,Gurudwara Sector 22 Noida,9.61
+Kailash Hospital Noida,Relief Camp,13.29
+The Fern Residency,Sector 106,5.46
+Shivam Hospital Noida,Sector 37,3.55
+Relief Camp,Kailash Hospital Noida,6.02
+Sector 122,Prayag Hospital & Research Centre,7.89
+Community NGO 16,Sector 82,14.89
+Community NGO 5,Sector 97,12.36
+Sector 65,Relief Camp,22.48
+Community NGO 18,Sector 123,3.09
+Sector 86,Sector 109,15.19
+Mayur Vihar,Film City,20.19
+Community NGO 10,Noida Authority Office,10.07
+Relief Camp,Sector 121,24.26
+Fortis Hospital Noida,Sector 123,17.97
+Community NGO 16,Community NGO 9,24.39
+Sector 63,Relief Camp,23.6
+Fortis Hospital Noida,DM Office Gautam Buddh Nagar,6.49
+Relief Camp,Sector 72,24.12
+Relief Camp,Sector 122,6.36
+Sector 118,Sector 81,7.11
+Relief Camp,Sector 104,0.51
+Community NGO 17,Sector 113,5.6
+Sector 42,Sector 87,13.46
+Relief Camp,Metro Hospital Noida,18.72
+Sector 84,Jaypee Greens,14.57
+Relief Camp,Relief Camp,4.93
+Noida Fire Station Sector 58,Relief Camp,2.74
+Sector 68,Sector 80,13.5
+Relief Camp,Relief Camp,8.15
+Noida City Centre,Sector 42,14.28
+Sector 112,Community NGO 20,10.8
+Shivam Hospital Noida,Community NGO 8,12.02
+Sector 37,Sector 123,8.0
+Sector 65,DM Office Gautam Buddh Nagar,1.81
+Sector 74,Relief Camp,23.7
+Relief Camp,Relief Camp,16.51
+Sector 103,Relief Camp,11.12
+Sector 44,Sector 121,6.51
+Community NGO 1,Taj Vivanta Noida,21.39
+Sector 128,Sector 96,12.62
+Taj Vivanta Noida,Relief Camp,24.44
+Fire Station Sector 5,Sector 78,10.3
+Relief Camp,Film City,0.74
+Relief Camp,Relief Camp,9.83
+Lemon Tree Hotel,Sector 18,12.89
+Community NGO 18,Sector 82,16.14
+Sector 96,Taj Vivanta Noida,22.13
+Community NGO 8,Community NGO 1,14.79
+Max Multi Speciality Centre,Community NGO 15,23.52
+Sector 55,Community NGO 1,3.19
+Kailash Hospital Noida,Sector 52,13.06
+Sector 107,Relief Camp,21.1
+Relief Camp,Community NGO 10,3.68
+Sector 116,Sector 65,7.29
+Sector 111,Sector 67,15.11
+Community NGO 20,Sector 118,15.35
+Sector 50,Relief Camp,8.92
+Sector 67,Film City,17.27
+Sector 122,Community NGO 13,17.12
+Sector 127,Sector 40,2.44
+Sector 112,Sector 95,24.42
+Sector 67,Sector 69,22.96
+Sector 125,Sector 60,16.92
+DM Office Gautam Buddh Nagar,Max Multi Speciality Centre,23.91
+Relief Camp,Relief Camp,24.82
+Community NGO 11,Sector 62,2.67
+Sector 96,Sector 73,10.35
+Relief Camp,Sector 66,24.56
+Sector 126,Relief Camp,8.96
+Relief Camp,Sector 87,2.91
+Relief Camp,Relief Camp,8.99
+Sector 52,Botanical Garden,23.98
+Relief Camp,Relief Camp,1.4
+Noida Control Room Sector 19,Park Ascent Hotel,19.19
+Sector 80,Sector 104,4.23
+Relief Camp,Sector 70,15.75
+Sector 16,Sector 111,14.55
+Sector 65,Sector 66,12.48
+Sector 114,Sector 100,20.49
+Sector 118,Sector 125,12.32
+Relief Camp,Community NGO 5,12.68
+Sector 103,Community NGO 1,23.48
+Sector 16,Sector 127,5.58
+Relief Camp,Relief Camp,4.07
+Fire Station Sector 16,Sector 104,15.57
+Sector 78,Sector 69,16.39
+Sector 83,Noida Fire Station Sector 2,4.6
+Relief Camp,Fire Station Sector 5,8.23
+Film City,Relief Camp,4.04
+Jaypee Hospital Noida,Sector 41,1.89
+Sector 92,Sector 78,2.08
+Community NGO 9,Sector 112,9.01
+Indirapuram,Jaypee Greens,14.3
+Community NGO 1,Relief Camp,1.29
+Relief Camp,Relief Camp,6.84
+Sector 55,Gurudwara Noida Extension,16.25
+Gurudwara Sahib Sector 62,Sector 78,20.34
+Sector 41,Mayur Vihar,7.22
+Wave City,Relief Camp,12.77
+Sector 18,Greater Noida Fire Station,9.12
+Gurudwara Singh Sabha Sector 18,Relief Camp,12.68
+Fire Station Sector 5,Sector 61,4.91
+Kailash Hospital Noida,Gurudwara Sector 22 Noida,13.02
+Sector 112,Sector 92,19.69
+Sector 56,Community NGO 2,18.43
+Relief Camp,Sector 106,5.0
+Sector 76,Sector 60,19.34
+Sector 127,Relief Camp,9.66
+Relief Camp,Relief Camp,24.22
+Sector 69,Relief Camp,9.84
+Sector 118,Relief Camp,1.04
+Sector 93,Community NGO 7,10.92
+Sector 15,Sector 94,7.6
+Sector 106,The Fern Residency,16.59
+Sector 96,Relief Camp,15.31
+Relief Camp,Gurudwara Singh Sabha Sector 18,20.43
+Relief Camp,Sector 73,7.16
+Noida Disaster Management Cell,Sector 74,0.84
+Sector 68,Gurudwara Noida Extension,3.85
+Relief Camp,Gurudwara Sahib Sector 62,23.18
+Community NGO 13,Relief Camp,19.27
+Sector 76,Felix Hospital Noida,14.12
+Fire Station Sector 63,Film City,8.04
+Sector 42,Relief Camp,14.82
+Community NGO 14,Relief Camp,14.92
+Sector 80,Sector 104,15.64
+Felix Hospital Noida,Relief Camp,17.52
+Sector 109,Community NGO 5,16.66
+Sector 82,Max Multi Speciality Centre,22.24
+Relief Camp,Relief Camp,5.36
+Radisson Blu Noida,Community NGO 9,6.01
+Sector 41,Community NGO 11,14.58
+Felix Hospital Noida,Sector 63,19.37
+Sector 105,Community NGO 8,21.18
+Noida Fire Station Sector 58,Park Ascent Hotel,24.61
+Noida Authority Office,Relief Camp,0.92
+Noida Disaster Management Cell,Sector 127,18.69
+Relief Camp,Community NGO 1,24.06
+Relief Camp,Sector 98,19.85
+Fire Station Sector 5,Relief Camp,17.49
+Community NGO 16,Sector 77,11.33
+Relief Camp,Sector 102,23.94
+Relief Camp,Community NGO 9,20.75
+Sector 58,Relief Camp,15.69
+Relief Camp,Relief Camp,24.67
+Noida Disaster Management Cell,Gurudwara Sahib Sector 62,12.75
+Relief Camp,Relief Camp,6.79
+Sector 116,Relief Camp,22.61
+Relief Camp,Community NGO 19,21.22
+Gurudwara Sahib Sector 62,Relief Camp,17.7
+Lemon Tree Hotel,Sector 83,14.19
+Sector 87,Relief Camp,4.38
+Kailash Hospital Noida,Relief Camp,23.09
+Community NGO 7,Indirapuram,18.44
+Fire Station Sector 5,Relief Camp,23.54
+Relief Camp,Sector 59,10.75
+Relief Camp,Sector 128,22.09
+Sector 63,Sector 71,18.84
+Sector 94,Sector 103,10.16
+Sector 56,Police Commissioner Office Noida,10.37
+Community NGO 18,Vinayak Hospital Noida,21.86
+Relief Camp,Community NGO 4,23.33
+Sector 62,Relief Camp,13.18
+Sector 67,Relief Camp,12.84
+Park Ascent Hotel,Holiday Inn Noida,22.76
+Relief Camp,Sector 54,23.36
+Sector 113,Community NGO 9,6.15
+Community NGO 12,Sector 77,13.73
+Police Commissioner Office Noida,Sector 104,8.13
+Relief Camp,Relief Camp,24.05
+Jaypee Greens,Sector 119,13.06
+Sector 119,Relief Camp,19.93
+Relief Camp,Sector 77,5.75
+Relief Camp,Sector 16,4.5
+Relief Camp,Sector 72,3.72
+Apollo Hospital Noida,Sector 41,2.26
+Gurudwara Singh Sabha Sector 18,Sector 128,9.31
+Metro Hospital Noida,Sector 41,3.94
+Sector 79,Sector 113,23.27
+Fire Station Sector 5,Relief Camp,13.95
+Sector 73,Fire Station Sector 16,9.39
+Relief Camp,Lemon Tree Hotel,5.65
+Sector 53,Relief Camp,11.34
+Sector 97,Relief Camp,12.75
+Sector 90,Lemon Tree Hotel,17.64
+The Fern Residency,Relief Camp,3.33
+Sector 94,Community NGO 16,10.47
+Relief Camp,Relief Camp,19.77
+Relief Camp,Sector 104,1.47
+The Fern Residency,Relief Camp,9.78
+Relief Camp,Relief Camp,18.14
+Community NGO 9,Sector 120,12.04
+Fire Station Sector 16,Sector 96,7.12
+Sector 67,Sector 104,5.65
+Radisson Blu Noida,Relief Camp,19.74
+Community NGO 11,Sector 79,24.17
+Relief Camp,Sector 58,22.86
+Sector 95,Community NGO 18,1.54
+Relief Camp,Sector 76,18.26
+Community NGO 10,Relief Camp,23.6
+Relief Camp,Relief Camp,16.02
+Relief Camp,Sector 18,18.76
+Gurudwara Noida Extension,Noida Control Room Sector 19,9.21
+Fire Station Sector 5,Hotel Fortune Inn Grazia,13.31
+Greater Noida Fire Station,Sector 56,5.78
+Sector 120,Sector 114,1.28
+Sector 41,Metro Hospital Noida,20.97
+Sector 103,Sector 97,5.33
+Relief Camp,Relief Camp,11.48
+Community NGO 12,Sector 54,9.26
+Mayur Vihar,Relief Camp,7.34
+Sector 125,Sector 59,14.31
+Relief Camp,Sector 76,11.22
+Relief Camp,Sector 100,25.0
+Noida Authority Office,Sector 52,10.7
+Sector 97,Relief Camp,12.58
+Sector 72,Sector 42,9.67
+Relief Camp,Sector 90,17.84
+Sector 119,Taj Vivanta Noida,22.16
+Sector 107,Relief Camp,21.37
+Relief Camp,Community NGO 5,8.47
+Noida City Centre,Sector 94,2.61
+Sector 113,Sector 71,24.22
+Sector 63,Community NGO 5,0.77
+Sector 94,Sector 66,3.07
+Sector 77,Relief Camp,11.63
+Relief Camp,Sector 40,12.16
+Noida Disaster Management Cell,Sector 110,4.83
+Sector 87,Sector 76,1.33
+Community NGO 1,Relief Camp,8.1
+Sector 108,Vinayak Hospital Noida,21.41
+Sector 110,Gurudwara Sector 22 Noida,18.42
+Community NGO 15,Greater Noida Fire Station,24.14
+Relief Camp,Fire Station Sector 5,6.36
+Relief Camp,Sector 42,7.84
+Relief Camp,Sector 108,18.93
+Sector 98,Botanical Garden,7.5
+Relief Camp,Sector 70,22.37
+Sector 71,Felix Hospital Noida,17.44
+Sector 81,Mayur Vihar,3.28
+Police Commissioner Office Noida,Community NGO 15,19.06
+Sector 118,Relief Camp,4.8
+Relief Camp,Taj Vivanta Noida,2.59
+Community NGO 18,Noida Authority Office,10.24
+Sector 125,Noida Control Room Sector 19,18.19
+Relief Camp,Sector 68,7.05
+Mayur Vihar,Relief Camp,7.39
+Film City,Relief Camp,1.39
+Community NGO 10,Sector 118,22.98
+Noida Disaster Management Cell,Sector 39,8.02
+Sector 69,Relief Camp,8.81
+Taj Vivanta Noida,Shivam Hospital Noida,1.3
+Sector 41,Relief Camp,12.68
+Sector 85,Relief Camp,5.64
+Kailash Hospital Noida,Sector 124,17.97
+Sector 104,Gurudwara Noida Extension,19.51
+Sector 78,Community NGO 17,17.42
+Sector 37,Sector 126,12.67
+Relief Camp,Sector 75,22.43
+Sector 90,Community NGO 19,1.26
+Sector 62,Gurudwara Noida Extension,2.12
+Sector 110,Relief Camp,23.39
+Relief Camp,Sector 85,10.86
+Sector 18,Sector 75,23.01
+Sector 105,Relief Camp,21.09
+Park Ascent Hotel,Sector 101,17.62
+Fire Station Sector 5,Sector 85,10.09
+Sector 41,Relief Camp,14.5
+Relief Camp,Sector 67,24.15
+Relief Camp,Relief Camp,4.76
+Relief Camp,Relief Camp,17.63
+Community NGO 3,Noida City Centre,20.23
+Jaypee Greens,Jaypee Hospital Noida,16.05
+Sector 101,Sector 54,4.92
+Sector 52,Community NGO 11,9.06
+Jaypee Greens,Fire Station Sector 5,8.26
+Sector 107,Prayag Hospital & Research Centre,0.53
+Sector 61,Relief Camp,22.39
+Sector 102,Community NGO 12,1.99
+Relief Camp,Sector 123,2.2
+Sector 42,Sector 83,21.49
+Sector 80,Sector 111,13.68
+Community NGO 20,Relief Camp,10.35
+Sector 118,Greater Noida Fire Station,3.46
+Relief Camp,Relief Camp,5.74
+Sector 92,Relief Camp,11.17
+Sector 83,Relief Camp,22.47
+Sector 123,Sector 41,3.63
+Community NGO 15,Gurudwara Singh Sabha Sector 18,4.96
+Relief Camp,Community NGO 20,7.4
+Sector 88,Relief Camp,7.73
+Sector 63,Sector 72,7.45
+Sector 122,Sector 126,15.27
+Sector 63,Sector 61,22.58
+Sector 73,Sector 87,18.9
+Sector 69,Sector 102,12.9
+Sector 89,Relief Camp,5.55
+Sector 99,Sector 100,24.46
+Sector 90,Max Multi Speciality Centre,15.67
+Sector 87,Relief Camp,5.89
+Relief Camp,Gurudwara Sector 22 Noida,16.59
+Sector 81,DM Office Gautam Buddh Nagar,1.76
+Sector 90,The Fern Residency,8.99
+Sector 101,Community NGO 9,22.08
+Police Commissioner Office Noida,Relief Camp,7.47
+Sector 118,Sector 85,10.27
+Prayag Hospital & Research Centre,Fire Station Sector 16,8.91
+Sector 88,Gurudwara Sahib Sector 62,21.95
+The Fern Residency,Sector 70,20.69
+Hotel Fortune Inn Grazia,Sector 37,24.25
+Sector 120,Relief Camp,17.67
+Sector 93,Prayag Hospital & Research Centre,10.51
+Relief Camp,Relief Camp,15.18
+Sector 92,Noida Fire Station Sector 58,21.56
+Relief Camp,Sector 61,3.9
+Sector 99,Fortis Hospital Noida,1.33
+Sector 73,Sector 106,4.54
+Relief Camp,Lemon Tree Hotel,7.62
+Sector 66,Community NGO 10,24.8
+Sector 62,Relief Camp,23.93
+Relief Camp,Metro Hospital Noida,12.0
+Sector 66,Sector 52,12.88
+Sector 42,Greater Noida Fire Station,20.01
+Sector 93,Shivam Hospital Noida,12.2
+Relief Camp,Sector 115,19.48
+Community NGO 20,Sector 96,3.75
+Relief Camp,Sector 16,15.81
+Relief Camp,Relief Camp,8.39
+Sector 84,Sector 78,15.84
+Metro Hospital Noida,Relief Camp,13.47
+Taj Vivanta Noida,Holiday Inn Noida,3.62
+Sector 88,Community NGO 3,0.72
+Relief Camp,Community NGO 6,14.96
+Sector 85,Sector 109,24.23
+Fire Station Sector 63,Sector 44,7.18
+Sector 76,Community NGO 2,9.97
+Prayag Hospital & Research Centre,Sector 117,0.93
+Fire Station Sector 63,Sector 84,23.33
+Community NGO 19,Lemon Tree Hotel,24.38
+Relief Camp,Sector 122,23.53
+Relief Camp,Relief Camp,16.98
+Relief Camp,Relief Camp,14.07
+Apollo Hospital Noida,Sector 66,19.33
+Sector 50,Relief Camp,1.1
+Relief Camp,Sector 127,7.08
+Relief Camp,Jaypee Greens,8.98
+Relief Camp,Police Commissioner Office Noida,10.23
+Relief Camp,Sector 69,4.05
+Relief Camp,Sector 84,23.54
+Relief Camp,Community NGO 20,10.9
+Holiday Inn Noida,Relief Camp,2.37
+Sector 39,Sector 110,3.57
+Noida Disaster Management Cell,Community NGO 11,11.87
+Relief Camp,Sector 97,21.61
+Sector 70,Relief Camp,8.7
+Relief Camp,Sector 60,20.87
+Community NGO 2,Sector 111,1.31
+Apollo Hospital Noida,Sector 62,23.76
+DM Office Gautam Buddh Nagar,Relief Camp,12.67
+Community NGO 3,Community NGO 19,16.54
+Sector 18,Sector 58,24.26
+Relief Camp,Sector 102,19.44
+Relief Camp,Sector 41,20.38
+Sector 68,Relief Camp,16.55
+Sector 50,Sector 76,22.27
+Sector 79,Sector 124,7.43
+Sector 65,Relief Camp,9.47
+Sector 65,Sector 109,10.03
+Sector 74,Sector 91,20.99
+Sector 63,Sector 95,14.67
+Relief Camp,Botanical Garden,15.84
+Sector 74,Sector 71,22.11
+Botanical Garden,Gurudwara Noida Extension,2.91
+Relief Camp,Sector 93,4.19
+Sector 121,Relief Camp,15.83
+Relief Camp,Sector 123,20.56
+Relief Camp,Sector 66,7.45
+Sector 83,Community NGO 17,1.53
+Sector 69,Sector 87,22.13
+Community NGO 14,Community NGO 15,1.11
+Film City,Community NGO 19,10.35
+Community NGO 6,Community NGO 20,5.79
+Community NGO 5,Relief Camp,24.4
+Relief Camp,Indirapuram,20.45
